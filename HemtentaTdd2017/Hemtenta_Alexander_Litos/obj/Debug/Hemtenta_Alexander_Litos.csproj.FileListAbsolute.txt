@@ -1,0 +1,6 @@
+C:\Users\hogst\Desktop\Programmering\Skola\TDD\KursProjekt\HemtentaTdd2017\Hemtenta_Alexander_Litos\bin\Debug\Hemtenta_Alexander_Litos.exe.config
+C:\Users\hogst\Desktop\Programmering\Skola\TDD\KursProjekt\HemtentaTdd2017\Hemtenta_Alexander_Litos\bin\Debug\Hemtenta_Alexander_Litos.exe
+C:\Users\hogst\Desktop\Programmering\Skola\TDD\KursProjekt\HemtentaTdd2017\Hemtenta_Alexander_Litos\bin\Debug\Hemtenta_Alexander_Litos.pdb
+C:\Users\hogst\Desktop\Programmering\Skola\TDD\KursProjekt\HemtentaTdd2017\Hemtenta_Alexander_Litos\obj\Debug\Hemtenta_Alexander_Litos.exe
+C:\Users\hogst\Desktop\Programmering\Skola\TDD\KursProjekt\HemtentaTdd2017\Hemtenta_Alexander_Litos\obj\Debug\Hemtenta_Alexander_Litos.pdb
+C:\Users\hogst\Desktop\Programmering\Skola\TDD\KursProjekt\HemtentaTdd2017\Hemtenta_Alexander_Litos\obj\Debug\Hemtenta_Alexander_Litos.csprojResolveAssemblyReference.cache

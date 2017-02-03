@@ -1,0 +1,26 @@
+Förklara med egna ord vad "red, green, refactor" innebär och hur du använt det i kursen
+
+Red
+Utvecklaren börjar med att skriva ett litet testfall för funktionen som ska misslyckas
+
+Green
+Därefter skriver utvecklaren ett litet testfall med minsta möjliga implementation
+för att få testfallet att lyckas
+
+Refactor
+Därefter tittar utvecklaren på koden för att se om hen kan förbättra implementationen
+
+Till sist repeterar utvecklaren denna cykel till hen har nått ett tillfredställande resultat.
+
+
+
+- Jag har använt red, green, refactor enligt vad som nämns ovan.
+
+- Jag har också försökt tänka på att testa metoderna i "rätt ordning".
+Vissa metoder är beroende av att andra metoder är implementerade och testade.
+Jag upplevde denna problematik framförallt i MusicPlayer där jag exempelvis
+först tänkte göra testfallet för loadsongs först. Men kom efter ett tag fram till
+att jag var tvungen att testa så att Mediabase var connected för att kunna hämta låtarna.
+
+
+
